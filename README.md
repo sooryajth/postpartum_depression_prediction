@@ -66,9 +66,11 @@ predict_ppd(sleep=2, anxiety=3)  # Example input
 ## **📢 Contribute & Connect**
 - Fork this project & contribute on **GitHub** 🚀
 - Let’s discuss **how Data Science can transform mental health analysis!** 📊💡
-- Connect with me on **[LinkedIn](your_linkedin_profile_here)**  
+- Connect with me on **[LinkedIn](www.linkedin.com/in/
+sooryajithvm
+)**  
 
-### **🔗 GitHub Repository**
-[🔗 Project Repository](your_github_link_here)
+
+
 
 #DataScience #MentalHealth #AI #MachineLearning #Statistics #Probability #PPD
