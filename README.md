@@ -32,7 +32,7 @@ Data Science is crucial for mental health prediction because it:
 - **Algorithm Used:** Logistic Regression
 - **Prediction Function:**
   - Inputs: Sleep trouble score, Anxiety score
-  - Output: Risk category (**High Risk, Moderate Risk, Low Risk**)
+  - Output: Risk category (**High Risk and Low Risk**)
 
 ### **3️⃣ Model Evaluation**
 - **Accuracy Score:** Measures correct predictions.
